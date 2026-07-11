@@ -26,22 +26,6 @@ Open to conversations around GenAI products, agent workflows, and technical part
 
 ---
 
-### Featured projects
-
-**[gitcheck](https://github.com/usamaa-saleem/gitcheck)** — TypeScript  
-CLI that checks GitHub contribution hygiene: local Git identity, recent commit eligibility, and calendar summaries via `gh`.
-
-**[ZenTrips](https://github.com/usamaa-saleem/ZenTrips)** — Python  
-AI travel concierge built for the Agentic AI Hackathon (Dubai 2025). Natural-language planning with Streamlit, LLM orchestration, and travel APIs.
-
-**[lead-magnet](https://github.com/usamaa-saleem/lead-magnet)** — TypeScript / React  
-Discovery site built with Vite, React, and Tailwind.
-
-**[stream_hack](https://github.com/usamaa-saleem/stream_hack)** — Python  
-Voice-driven travel planning assistant (Streamlit + ElevenLabs).
-
----
-
 ### Elsewhere
 
 - Website: [genaxai.com](https://www.genaxai.com)
