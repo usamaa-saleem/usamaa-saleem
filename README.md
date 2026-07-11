@@ -1,5 +1,3 @@
-# Muhammad Usama Saleem
-
 **Founder & CEO, [Genax AI](https://www.genaxai.com)** · Islamabad
 
 Building GenAI products and agent systems that help AI-first businesses ship and scale.
