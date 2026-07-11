@@ -23,12 +23,3 @@ Open to conversations around GenAI products, agent workflows, and technical part
 | Backend & APIs | FastAPI, Node.js |
 | AI / Agents | OpenAI, Streamlit, voice (ElevenLabs) |
 | Tooling | GitHub CLI, npm / tsx |
-
----
-
-### Elsewhere
-
-- Website: [genaxai.com](https://www.genaxai.com)
-- X / Twitter: [@somieee20](https://twitter.com/somieee20)
-- Email: [usamaa.saleeem@gmail.com](mailto:usamaa.saleeem@gmail.com)
-- GitHub: [usamaa-saleem](https://github.com/usamaa-saleem)
